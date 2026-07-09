@@ -14,7 +14,7 @@ A simple browser-based Rock-Paper-Scissors game built with HTML, CSS, and JavaSc
 
 - index.html — game user interface and layout.
 - style.css — styling for the game board and controls.
-- pp.js — game logic, score tracking, and event handling.
+- app.js — game logic, score tracking, and event handling.
 - images/ — icons for rock, paper, and scissors.
 
 ## How to Use
@@ -24,6 +24,3 @@ A simple browser-based Rock-Paper-Scissors game built with HTML, CSS, and JavaSc
 3. View the result message and score updates.
 4. Play again to continue the match.
 
-## License
-
-This project is provided as-is for learning and demonstration purposes.
